@@ -138,7 +138,7 @@ A dummy current situation is that the tomcat shell provisioner needs a mount fro
 
 Ansible secrets have to be reviewed (too many and/or not enough accurate). Use secrets for bacula Passwords).
 
-Check, correct, understand, perms in dovecot where users can check their inbox emails.
+Check, correct, understand, perms, in dovecot where users can check their inbox emails.
 
 Set, use, review, ipv6
 
