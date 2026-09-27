@@ -5,3 +5,10 @@ venv
 .venv
 .vagrant
 *.ansible.secret
+*.cert.pub
+*.pem
+*.key
+*.pub
+*.crt
+*.keystore
+*id_ed25519
